@@ -35,7 +35,7 @@ To run this project
 In this project, I learned how to deal with the Linux system in general and how to manage users, privileges, and groups within it, in addition to building this project inside a docker container.
 
 ## to learn bash you can read this tutorial
-- [bash-guide](https://github.com/fadel-hasan/bash_database_simulation/tree/main/bash-guide)
+- [bash-guide](https://github.com/fadel-hasan/bash_database_simulation/blob/main/bash_tutorial.md)
 
 ## Contributing
 Contributions are always welcome!
